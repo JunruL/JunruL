@@ -1,25 +1,31 @@
-# Hi there <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='120"'>
+# Hi, I'm Junru <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='120"'>
 
-<!--
-**JunruL/JunruL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- start introduction section -->
+<details>
+  <summary><b>:blush: &nbsp; About Me</b></summary>
+  <br>
+  <p> 
+    :school: &nbsp; An undergraduate in Computer Science, Data Science, and Mathematics at the University of Toronto
+  </p>
+  <p>
+    :book: &nbsp; I'm reading C++ Primer and Das Kapital 
+  </p>
+  <p>
+    :camera: &nbsp; I'm a photograohy lover
+  </p>
+  <p>
+    :mailbox_with_no_mail: &nbsp; junru.lin@mail.utoronto.ca
+  </p>
+  <br/>
+</details>
+<!-- end introduction section -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!-- start project section -->
 <details>
-<summary><b>:floppy_disk: &nbsp;Project </b></summary>
-  <br />
+<summary><b>:computer: &nbsp; Project </b></summary>
+  <br/>
 <table>
   <thead>
     <tr>
@@ -51,6 +57,7 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+  <br/>
 </details>
 <!-- end project section -->
 
@@ -58,7 +65,7 @@ Here are some ideas to get you started:
 
 <!-- start GitHub Statistic ssection -->
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:mag: &nbsp; GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JunruL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
