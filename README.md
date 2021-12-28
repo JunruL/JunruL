@@ -15,6 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- start project section -->
+<details>
+<summary><b>:floppy_disk: &nbsp;Project </b></summary>
+  <br />
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/MarkUsProject'>MarkUs</a></td>
+      <td>Ruby on rails, React</td>
+      <td>A web application for the submission and grading of assignments</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/JunruL/CSC207-Time'>Time</a></td>
+      <td>Java</td>
+      <td>A desktop app for time management</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JunruL/CSC111-Chinese-Chese-AI">Chess Game</a></td>
+      <td>Python</td>
+      <td>Chinese Chess Game with an AI player</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/JunruL/CSC110-Impact-of-climate-change-on-wildefire'>Climate Change</a></td>
+      <td>Python</td>
+      <td>Analysis of climate change and wildefire</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end project section -->
+
+
+
 <!-- start GitHub Statistic ssection -->
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
