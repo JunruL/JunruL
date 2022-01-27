@@ -8,10 +8,7 @@
     :school: &nbsp; An undergraduate in Computer Science, Data Science, and Mathematics at the University of Toronto
   </p>
   <p>
-    :floppy_disk: &nbsp; I'm learning C++
-  </p>
-  <p>
-    :book: &nbsp; I'm reading Das Kapital 
+    :floppy_disk: &nbsp; I'm learning C
   </p>
   <p>
     :camera: &nbsp; I'm a photograohy lover
