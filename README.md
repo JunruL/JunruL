@@ -1,4 +1,4 @@
-# Hi, I'm Junru <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='120"'>
+# Hi, I'm Junru <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='120'>
 
 <!-- start introduction section -->
 <details>
