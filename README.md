@@ -5,10 +5,10 @@
   <summary><b>:blush: &nbsp; About Me</b></summary>
   <br>
   <p> 
-    :school: &nbsp; An undergraduate in Computer Science, Data Science, and Mathematics at the University of Toronto
+    :school: &nbsp; A third-year undergraduate studying Computer Science, Data Science, and Mathematics at the University of Toronto
   </p>
   <p>
-    :floppy_disk: &nbsp; I'm learning C
+    :floppy_disk: &nbsp; I'm learning C++
   </p>
   <p>
     :camera: &nbsp; I'm a photograohy lover
